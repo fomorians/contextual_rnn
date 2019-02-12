@@ -1,6 +1,6 @@
 # Contextual RNN
 
-This repository contains the code for the paper "[Contextual Recurrent Neural Networks](https://arxiv.org/abs/)"
+This repository contains the code for the paper "[Contextual Recurrent Neural Networks](https://arxiv.org/abs/1902.03455)"
 
 # Installing
 
@@ -67,7 +67,7 @@ pipenv shell
 @article{wenkesj2019contextual,
   title={Contextual Recurrent Neural Networks},
   author={Wenke, Sam and Fleming, Jim},
-  url={https://arxiv.org/abs/},
+  url={https://arxiv.org/abs/1902.03455},
   year={2019}
 }
 ```
